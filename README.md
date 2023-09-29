@@ -1,2 +1,2 @@
 # portfolio website
-Built using sveltekit, typescript, shadchui-svelte
+Built using sveltekit, typescript, shadcnui-svelte
