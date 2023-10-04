@@ -18,7 +18,7 @@
   </div>
   <div class="flex flex-col justify-center items-center gap-7">
     <h1 class="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl text-center">
-      Golang Backend Developer
+      Software Engineer
     </h1>
     <h4 class="scroll-m-20 text-xl font-semibold tracking-tight italic underline">
       Malibongwe Gumede
