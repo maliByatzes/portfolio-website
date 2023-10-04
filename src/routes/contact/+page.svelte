@@ -13,6 +13,5 @@
   <p class="leading-7 font-bold text-xl [&:not(:first-child)]:mt-6">
     email: <a href="mailto:malib2027@gmail.com">malib2027@gmail.com</a> <br />
     alternative email: <a href="mailto:malibongwe2027zakes@gmail.com">malibongwe2027zakes@gmail.com</a> <br />
-    contact number: (+27) 67 627 7089
   </p>
 </main>
